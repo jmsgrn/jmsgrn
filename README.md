@@ -1,4 +1,4 @@
-### Hi, I'm Andy.
+### Howdy, I'm Andy.
 
 TypeScript developer at a US defense contractor. I think a lot about the
 layer above the model - harnesses, AGENTS.md, the scaffolding that makes an
