@@ -18,7 +18,3 @@ Things I'm into:
 - **Owning the whole pipeline.** greenworks.dev ships through my own CI/CD on
   that homelab - Gitea, my own runners, push-to-deploy. No third-party build
   service in the loop, just my boxes doing the work.
-
-More at **[greenworks.dev](https://greenworks.dev)**.
-
-greenworks.dev · LinkedIn
