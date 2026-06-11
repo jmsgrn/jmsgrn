@@ -1,6 +1,6 @@
 ### Howdy, I'm Andy.
 
-TypeScript developer at a US defense contractor. I think a lot about the
+TypeScript developer at a defense contractor. I think a lot about the
 layer above the model - harnesses, AGENTS.md, the scaffolding that makes an
 AI coding agent actually behave like it works on your codebase.
 
